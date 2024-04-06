@@ -1,5 +1,5 @@
 # 💫 About Me:
-:man_technologist: backend developer at [Saafaa](https://saafaa.ir)<br>:wrench: technical support at [Saafaa](https://saafaa.ir)<br>:computer: linux professional user<br>:whale: in love with docker
+:man_technologist: backend developer at [Saafaa](https://saafaa.ir)<br>:wrench: technical support at [Saafaa](https://saafaa.ir)<br>:computer: linux professional user<br>:whale: in love with docker<br>![](https://komarev.com/ghpvc/?username=amirh3347&color=blue)
 
 
 ## 🌐 Socials:
